@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Welcome to Our Company",
+        "text": "Your one-stop place for innovative technology solutions. We are dedicated to providing cutting-edge products and services that enhance your life and business. Explore our offerings and discover how we can help you achieve your goals."
+    },
+    {
+        "id": 2,
+        "title": "Latest News",
+        "text": "Stay updated with our latest news and announcements. We are constantly innovating and expanding our product range to serve you better. Check back often for updates on new releases, events, and more."
+    },
+    {
+        "id": 3,
+        "title": "Contact Us",
+        "text": "Have questions or need support? Our team is here to help. Reach out to us through our contact page or visit our support center for assistance with any of our products or services."
+    }
+]

@@ -1,0 +1,78 @@
+header {
+  
+  background-color: #4c51bf;
+
+}
+
+.navbar {
+  
+  display: flex;
+  overflow-x: auto;
+  justify-content: center;
+  white-space: nowrap;
+ 
+  
+  
+}
+
+.navbar .ul {
+  display: flex;
+  list-style: none; /* Remove the default bullet points */
+  margin: 0; /* Remove default browser margin */
+  padding: 0; /* Remove default browser padding */
+  display: flex; /* This is the key! It aligns the list items in a row. */
+}
+
+.navbar a {
+  color: white; /* Make the link text white */
+  text-decoration: none; /* Remove the default underline */
+  padding: 0.5rem 1rem; /* Add space around the text to make it easier to click */
+  display: inline-block; /* Make the entire padded area clickable, not just the text */
+}
+
+.navbar li a.active {
+  border-bottom: 2px solid white;
+}
+
+.navbar a:hover {
+  background-color: #134684; /* Slightly lighter background on hover */
+  border-radius: 5px; /* Give it rounded corners */
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100px;
+ 
+  padding: 10px;
+  margin-top: 10px;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+header p {
+  font-family: sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.header-container .logo-section{
+  display: flex;
+  height: 50px;
+  margin-top: 40px;
+
+  
+}
+
+
+.header-container .identity {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 6,
+    "title": "Portfolio website",
+    "description": "A suitable portfoli website for you in affordable price.",
+    "src": "/images/portfolio.jpeg",
+    "color": "#FFDCDC"
+  },
+  {
+    "id": 7,
+    "title": "Online shopping website/app",
+    "description": "If you need online shop for your business we can build app or website for you.",
+    "src": "/images/online-shop.jpeg",
+    "color": "#FFDCDC"
+  },
+  {
+    "id": 8,
+    "title": "Integrate payment system",
+    "description": "By integrating payment system in your website, you attract more money.",
+    "src": "/images/payment.jpeg",
+    "color": "#FFDCDC"
+  },
+  
+
+
+  {
+    "id": 1,
+    "title": "obstacle avoiding robot.",
+    "description": "Modern obstacel avoiding robot built with arduino.",
+    "src": "/images/obstacle.png",
+    "color": "#BBFBFF"
+  },
+  {
+    "id": 2,
+    "title": "Mini Diy drone.",
+    "description": "Home made drone, very cheap and you can modify at",
+    "src": "/images/drone.png",
+    "color": "#BBFBFF"
+  },
+  {
+    "id": 3,
+    "title": "Rubiks solver.",
+    "description": "home made rubiks solver, interesting project.",
+    "src": "/images/rubiks.png",
+    "color": "#dbeafe"
+  },
+  {
+    "id": 4,
+    "title": "Robertic arm.",
+    "description": "A robertic arm for your business to automate your task.",
+    "src": "/images/arm.png",
+    "color": "#e0e7ff"
+  },
+  {
+    "id": 5,
+    "title": "Home automation technology",
+    "description": "control your house system from your mobile, when you are far away. Also monitor your kids and dog.",
+    "src": "/images/home_auto.png",
+    "color": "#e0e7ff"
+  },
+  {
+    "id": 8,
+    "title": "Robot",
+    "description": "we will build robots based on your requirements.",
+    "src": "/images/robot.jpeg",
+    "color": "#e0e7ff"
+  },
+  {
+    "id": 9,
+    "title": "3D printing",
+    "description": "Design and print your 3d parts quickly!.",
+    "src": "/images/3d.jpeg",
+    "color": "#fbeafe"
+  }
+]

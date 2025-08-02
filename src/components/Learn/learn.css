@@ -1,0 +1,13 @@
+.courses{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+
+.course{
+    padding: 5px;
+    margin: 5px;
+    background-color: gainsboro;
+}

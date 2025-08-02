@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Our Mission",
+        "text": "Our mission is to develope smart technology and solve people problems,\nwith the development, changes in Rules and Regulation, global warming, wars and many more.\nPeople are facing problems. So to solve these problems, I decided to establish Technology Developer Company."
+    },
+    {
+        "id": 2,
+        "title": "Our Story",
+        "text": "Founded in 2023, our company started with a vision to create innovative solutions that address real-world challenges. We began as a small team of passionate developers and have grown into a diverse group of experts dedicated to making a difference through technology.\nOur journey has been marked by continuous growth, learning, and a commitment to excellence."
+    },
+    {
+        "id": 3,
+        "title": "Our Values",
+        "text": "We value integrity, innovation, and collaboration. We believe in the power of technology to transform lives and are committed to ethical practices in all our endeavors.\nOur team is dedicated to continuous learning and improvement, ensuring we stay at the forefront of technological advancements."
+    }
+]

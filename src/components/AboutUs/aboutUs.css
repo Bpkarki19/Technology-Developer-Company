@@ -1,0 +1,12 @@
+.about-us {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.info {
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #e6f0fa;
+}
