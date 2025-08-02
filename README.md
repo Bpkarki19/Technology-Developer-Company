@@ -1,1 +1,1 @@
-# React-JavaScript-Online-shop
+It is a company website.
